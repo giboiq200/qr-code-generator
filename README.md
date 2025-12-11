@@ -192,7 +192,3 @@ If you have questions, issues, or feature suggestions:
 
 Thank you for checking out **QR Code Generator with Authentication**!
 Enjoy building and generating QR codes securely! 🚀
-
-```
-
-
