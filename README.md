@@ -136,8 +136,6 @@ Simply open:
    * bcrypt verifies whether the provided password matches the stored hash.
 4. If valid, backend returns success and frontend redirects the user to QR generator page.
 
-Passwords **never** appear in logs or the database.
-
 ---
 
 ## 🧩 How QR Code Generation Works
